@@ -37,7 +37,5 @@ public class MysqlCon {
         }
 
        // List<String> lines = Arrays.asList("The first line", "The second line");
-
-
     }
 }

@@ -8,7 +8,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class DbToCSV {
-
     public static void main(String[] args) {
         String filename ="test.csv";
         try {
